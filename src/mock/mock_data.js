@@ -158,8 +158,7 @@ export const mockData = {
           "icon": "/sitelogo/vpsls.com.ico"
         },
         {
-          "id": "nihaoh
-r",
+          "id": "nihao-hr",
           "name": "你好HR",
           "url": "https://chromewebstore.google.com/detail/%E4%BD%A0%E5%A5%BDhr/dogjfmeploffpakiffkgjjlfhkgcmhfc",
           "description": "",
