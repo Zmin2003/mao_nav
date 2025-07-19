@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://www.4kvm.tv/",
           "description": "",
           "icon": "/sitelogo/www.4kvm.tv.ico"
+        },
+        {
+          "id": "site-1752959852496",
+          "name": "GPT",
+          "url": "https://chatgpt.com/",
+          "description": "",
+          "icon": "/sitelogo/chatgpt.com.ico"
         }
       ]
     },
@@ -57,18 +64,18 @@ export const mockData = {
           "icon": "/sitelogo/infini-cloud.net.ico"
         },
         {
-          "id": "cats-api",
-          "name": "Cats API",
-          "url": "https://catsapi.com/pricing",
-          "description": "",
-          "icon": "/sitelogo/catsapi.com.ico"
-        },
-        {
           "id": "new-api",
           "name": "New API",
           "url": "https://tbai.xin/",
           "description": "",
           "icon": "/sitelogo/tbai.xin.ico"
+        },
+        {
+          "id": "cats-api",
+          "name": "Cats API",
+          "url": "https://catsapi.com",
+          "description": "",
+          "icon": "/sitelogo/catsapi.com.ico"
         }
       ]
     },
@@ -174,6 +181,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "zmin",
-  "_fileSha": "9a4d7a075ce5ec4f5f82948b2e4aed5b645d4c31"
+  "title": "zmin"
 }
