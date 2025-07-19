@@ -81,7 +81,7 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
+      "name": "脚本",
       "icon": "🛠️",
       "order": 3,
       "sites": [
