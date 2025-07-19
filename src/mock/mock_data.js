@@ -127,6 +127,27 @@ export const mockData = {
           "url": "https://greasyfork.cn/post/8",
           "description": "",
           "icon": "/sitelogo/greasyfork.cn.ico"
+        },
+        {
+          "id": "site-1752960466589",
+          "name": "edu",
+          "url": "https://zmkk.edu.kg/email",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "inbox-jolyne-kojo",
+          "name": "jolyne_kojo  EDU",
+          "url": "https://email-web-app.j3.workers.dev/",
+          "description": "",
+          "icon": "/sitelogo/email-web-app.j3.workers.dev.ico"
+        },
+        {
+          "id": "site-1752960532217",
+          "name": "ZMIN EDU",
+          "url": "https://zmkk.edu.kg/email",
+          "description": "",
+          "icon": "/sitelogo/email-web-app.j3.workers.dev.ico"
         }
       ]
     },
@@ -156,13 +177,6 @@ export const mockData = {
           "url": "https://vpsls.com/docs/%E9%A6%96%E9%A1%B5/",
           "description": "",
           "icon": "/sitelogo/vpsls.com.ico"
-        },
-        {
-          "id": "inbox-jolyne-kojo",
-          "name": "收件箱 - jolyne_kojo",
-          "url": "https://email-web-app.j3.workers.dev/",
-          "description": "",
-          "icon": "/sitelogo/email-web-app.j3.workers.dev.ico"
         },
         {
           "id": "vercel",
