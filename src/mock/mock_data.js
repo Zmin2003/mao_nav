@@ -28,18 +28,18 @@ export const mockData = {
           "icon": "/sitelogo/tv.zmin.fyi.ico"
         },
         {
-          "id": "4kvm-tv",
-          "name": "4k影视-高清在线 - 4k影视",
-          "url": "https://www.4kvm.tv/",
-          "description": "",
-          "icon": "/sitelogo/www.4kvm.tv.ico"
-        },
-        {
           "id": "site-1752959852496",
           "name": "GPT",
           "url": "https://chatgpt.com/",
           "description": "",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "4kvm-tv",
+          "name": "4k影视",
+          "url": "https://www.4kvm.tv/",
+          "description": "",
+          "icon": "/sitelogo/www.4kvm.tv.ico"
         }
       ]
     },
