@@ -1,5 +1,4 @@
 export const mockData = {
-  title: "Bookmarks",
   categories: [
     {
       id: "my-favorites",
@@ -175,4 +174,5 @@ export const mockData = {
       ]
     },
   ]
+  "title": "猫猫导航"
 };
