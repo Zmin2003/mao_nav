@@ -129,13 +129,6 @@ export const mockData = {
           "icon": "/sitelogo/greasyfork.cn.ico"
         },
         {
-          "id": "site-1752960466589",
-          "name": "edu",
-          "url": "https://zmkk.edu.kg/email",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "inbox-jolyne-kojo",
           "name": "jolyne_kojo  EDU",
           "url": "https://email-web-app.j3.workers.dev/",
