@@ -184,6 +184,13 @@ export const mockData = {
           "url": "https://vercel.com/bantianjingchuans-projects/",
           "description": "",
           "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
+          "id": "site-1753324535695",
+          "name": "desktop",
+          "url": "https://gitee.com/codevicent/easy-desktop",
+          "description": "",
+          "icon": "/sitelogo/gitee.com.ico"
         }
       ]
     }
