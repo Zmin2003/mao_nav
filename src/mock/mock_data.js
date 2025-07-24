@@ -40,13 +40,6 @@ export const mockData = {
           "url": "https://www.4kvm.tv/",
           "description": "",
           "icon": "/sitelogo/www.4kvm.tv.ico"
-        },
-        {
-          "id": "site-1752978595870",
-          "name": "文件传输",
-          "url": "https://file.zmin.fyi",
-          "description": "",
-          "icon": ""
         }
       ]
     },
