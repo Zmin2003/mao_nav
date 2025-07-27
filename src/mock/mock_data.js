@@ -21,18 +21,18 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "zmin-video",
-          "name": "zmin video",
-          "url": "https://tv.zmin.fyi/",
-          "description": "",
-          "icon": "/sitelogo/tv.zmin.fyi.ico"
-        },
-        {
           "id": "site-1752959852496",
           "name": "GPT",
           "url": "https://chatgpt.com/",
           "description": "",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "zmin-video",
+          "name": "zmin video",
+          "url": "https://tv.zmin.fyi/",
+          "description": "",
+          "icon": "/sitelogo/tv.zmin.fyi.ico"
         },
         {
           "id": "4kvm-tv",
@@ -50,6 +50,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "cats-api",
+          "name": "Cats API",
+          "url": "https://catsapi.com",
+          "description": "",
+          "icon": "/sitelogo/catsapi.com.ico"
+        },
+        {
           "id": "cf",
           "name": "cf",
           "url": "https://dash.cloudflare.com/",
@@ -57,25 +64,11 @@ export const mockData = {
           "icon": "/sitelogo/dash.cloudflare.com.ico"
         },
         {
-          "id": "webdev",
-          "name": "webdev",
-          "url": "https://infini-cloud.net/en/",
-          "description": "",
-          "icon": "/sitelogo/infini-cloud.net.ico"
-        },
-        {
           "id": "new-api",
           "name": "New API",
           "url": "https://tbai.xin/",
           "description": "",
           "icon": "/sitelogo/tbai.xin.ico"
-        },
-        {
-          "id": "cats-api",
-          "name": "Cats API",
-          "url": "https://catsapi.com",
-          "description": "",
-          "icon": "/sitelogo/catsapi.com.ico"
         }
       ]
     },
@@ -86,18 +79,18 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
-          "id": "github-docker-accelerator",
-          "name": "GitHub docker 加速",
-          "url": "https://cnb.cool/znb/hubproxy",
-          "description": "",
-          "icon": "/sitelogo/cnb.cool.ico"
-        },
-        {
           "id": "github-time-script",
           "name": "GitHub 时间脚本",
           "url": "https://docs.rational-stars.top/",
           "description": "",
           "icon": "/sitelogo/docs.rational-stars.top.ico"
+        },
+        {
+          "id": "github-docker-accelerator",
+          "name": "GitHub docker 加速",
+          "url": "https://cnb.cool/znb/hubproxy",
+          "description": "",
+          "icon": "/sitelogo/cnb.cool.ico"
         },
         {
           "id": "nihao-hr",
@@ -122,13 +115,6 @@ export const mockData = {
           "icon": "/sitelogo/i.mooc.chaoxing.com.ico"
         },
         {
-          "id": "xuetong-helper",
-          "name": "学习通助手",
-          "url": "https://greasyfork.cn/post/8",
-          "description": "",
-          "icon": "/sitelogo/greasyfork.cn.ico"
-        },
-        {
           "id": "inbox-jolyne-kojo",
           "name": "jolyne_kojo  EDU",
           "url": "https://email-web-app.j3.workers.dev/",
@@ -140,7 +126,14 @@ export const mockData = {
           "name": "ZMIN EDU",
           "url": "https://zmkk.edu.kg/email",
           "description": "",
-          "icon": "/sitelogo/email-web-app.j3.workers.dev.ico"
+          "icon": "/sitelogo/zmkk.edu.kg.ico"
+        },
+        {
+          "id": "xuetong-helper",
+          "name": "学习通助手",
+          "url": "https://greasyfork.cn/post/8",
+          "description": "",
+          "icon": "/sitelogo/greasyfork.cn.ico"
         }
       ]
     },
@@ -158,20 +151,6 @@ export const mockData = {
           "icon": "/sitelogo/www.fire114.cn.ico"
         },
         {
-          "id": "porkbun",
-          "name": "域名",
-          "url": "https://porkbun.com/",
-          "description": "",
-          "icon": "/sitelogo/porkbun.com.ico"
-        },
-        {
-          "id": "vps-ls",
-          "name": "VPS ls",
-          "url": "https://vpsls.com/docs/%E9%A6%96%E9%A1%B5/",
-          "description": "",
-          "icon": "/sitelogo/vpsls.com.ico"
-        },
-        {
           "id": "vercel",
           "name": "vercel",
           "url": "https://vercel.com/bantianjingchuans-projects/",
@@ -184,6 +163,13 @@ export const mockData = {
           "url": "https://gitee.com/codevicent/easy-desktop",
           "description": "",
           "icon": "/sitelogo/gitee.com.ico"
+        },
+        {
+          "id": "site-1753596390004",
+          "name": "PDF集成翻译",
+          "url": "https://www.onlinedoctranslator.com/zh-CN/",
+          "description": "",
+          "icon": "/sitelogo/www.onlinedoctranslator.com.ico"
         }
       ]
     }
