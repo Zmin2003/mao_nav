@@ -50,13 +50,6 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "cats-api",
-          "name": "Cats API",
-          "url": "https://catsapi.com",
-          "description": "",
-          "icon": "/sitelogo/catsapi.com.ico"
-        },
-        {
           "id": "cf",
           "name": "cf",
           "url": "https://dash.cloudflare.com/",
@@ -69,6 +62,13 @@ export const mockData = {
           "url": "https://tbai.xin/",
           "description": "",
           "icon": "/sitelogo/tbai.xin.ico"
+        },
+        {
+          "id": "cats-api",
+          "name": "Cats API",
+          "url": "https://catsapi.com",
+          "description": "",
+          "icon": "/sitelogo/tbai.xin.ico"
         }
       ]
     },
@@ -78,13 +78,6 @@ export const mockData = {
       "icon": "🛠️",
       "order": 3,
       "sites": [
-        {
-          "id": "github-time-script",
-          "name": "GitHub 时间脚本",
-          "url": "https://docs.rational-stars.top/",
-          "description": "",
-          "icon": "/sitelogo/docs.rational-stars.top.ico"
-        },
         {
           "id": "github-docker-accelerator",
           "name": "GitHub docker 加速",
@@ -98,6 +91,13 @@ export const mockData = {
           "url": "https://chromewebstore.google.com/detail/%E4%BD%A0%E5%A5%BDhr/dogjfmeploffpakiffkgjjlfhkgcmhfc",
           "description": "",
           "icon": "/sitelogo/chromewebstore.google.com.ico"
+        },
+        {
+          "id": "github-time-script",
+          "name": "GitHub 时间脚本",
+          "url": "https://docs.rational-stars.top/",
+          "description": "",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -107,20 +107,6 @@ export const mockData = {
       "icon": "📚",
       "order": 6,
       "sites": [
-        {
-          "id": "chaoxing-space",
-          "name": "重庆科创",
-          "url": "https://i.mooc.chaoxing.com/space/index?t=1711770764305",
-          "description": "",
-          "icon": "/sitelogo/i.mooc.chaoxing.com.ico"
-        },
-        {
-          "id": "inbox-jolyne-kojo",
-          "name": "jolyne_kojo  EDU",
-          "url": "https://email-web-app.j3.workers.dev/",
-          "description": "",
-          "icon": "/sitelogo/email-web-app.j3.workers.dev.ico"
-        },
         {
           "id": "site-1752960532217",
           "name": "ZMIN EDU",
@@ -132,6 +118,20 @@ export const mockData = {
           "id": "xuetong-helper",
           "name": "学习通助手",
           "url": "https://greasyfork.cn/post/8",
+          "description": "",
+          "icon": "/sitelogo/greasyfork.cn.ico"
+        },
+        {
+          "id": "inbox-jolyne-kojo",
+          "name": "jolyne_kojo  EDU",
+          "url": "https://email-web-app.j3.workers.dev/",
+          "description": "",
+          "icon": "/sitelogo/zmkk.edu.kg.ico"
+        },
+        {
+          "id": "chaoxing-space",
+          "name": "重庆科创",
+          "url": "https://i.mooc.chaoxing.com/space/index?t=1711770764305",
           "description": "",
           "icon": "/sitelogo/greasyfork.cn.ico"
         }
@@ -170,6 +170,13 @@ export const mockData = {
           "url": "https://www.onlinedoctranslator.com/zh-CN/",
           "description": "",
           "icon": "/sitelogo/www.onlinedoctranslator.com.ico"
+        },
+        {
+          "id": "site-1754648873437",
+          "name": "GitHub wiki",
+          "url": "https://deepwiki.com/",
+          "description": "",
+          "icon": "/sitelogo/deepwiki.com.ico"
         }
       ]
     }
