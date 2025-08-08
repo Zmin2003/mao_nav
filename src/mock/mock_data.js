@@ -1,10 +1,17 @@
 export const mockData = {
   "categories": [
     {
+      "id": "category-1754650287938",
+      "icon": "🌐",
+      "name": "自建网站",
+      "order": 0,
+      "sites": []
+    },
+    {
       "id": "my-favorites",
       "name": "我的常用",
-      "icon": "💥",
-      "order": 0,
+      "icon": "💼",
+      "order": 1,
       "sites": [
         {
           "id": "linux-do",
@@ -75,7 +82,7 @@ export const mockData = {
     {
       "id": "dev-tools",
       "name": "脚本",
-      "icon": "🛠️",
+      "icon": "⚙️",
       "order": 3,
       "sites": [
         {
@@ -105,7 +112,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 4,
       "sites": [
         {
           "id": "site-1752960532217",
@@ -140,8 +147,8 @@ export const mockData = {
     {
       "id": "tools",
       "name": "工具",
-      "icon": "⚙️",
-      "order": 7,
+      "icon": "🛠️",
+      "order": 5,
       "sites": [
         {
           "id": "fire114",
