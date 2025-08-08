@@ -5,7 +5,22 @@ export const mockData = {
       "icon": "🌐",
       "name": "自建网站",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "zmin-video",
+          "name": "zmin video",
+          "url": "https://tv.zmin.fyi/",
+          "description": "",
+          "icon": "/sitelogo/tv.zmin.fyi.ico"
+        },
+        {
+          "id": "site-1754651509262",
+          "name": "Zmin's diary",
+          "url": "https://love.zmin.fyi/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "my-favorites",
@@ -33,13 +48,6 @@ export const mockData = {
           "url": "https://chatgpt.com/",
           "description": "",
           "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
-          "id": "zmin-video",
-          "name": "zmin video",
-          "url": "https://tv.zmin.fyi/",
-          "description": "",
-          "icon": "/sitelogo/tv.zmin.fyi.ico"
         },
         {
           "id": "4kvm-tv",
