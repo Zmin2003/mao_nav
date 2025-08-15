@@ -7,18 +7,18 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "zmin-video",
-          "name": "zmin video",
-          "url": "https://tv.zmin.fyi/",
-          "description": "",
-          "icon": "/sitelogo/tv.zmin.fyi.ico"
-        },
-        {
           "id": "site-1754651509262",
           "name": "Zmin's diary",
           "url": "https://love.zmin.fyi/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "zmin-video",
+          "name": "zmin video",
+          "url": "http://[2a14:7581:8400::2:0:850b]:3000",
+          "description": "",
+          "icon": "/sitelogo/tv.zmin.fyi.ico"
         }
       ]
     },
