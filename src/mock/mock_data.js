@@ -19,6 +19,13 @@ export const mockData = {
           "url": "http://[2a14:7581:8400::2:0:850b]:3000",
           "description": "",
           "icon": "/sitelogo/tv.zmin.fyi.ico"
+        },
+        {
+          "id": "site-1755328996669",
+          "name": "x-ui",
+          "url": "http://[2a14:7581:8400::2:0:850b]:54321",
+          "description": "",
+          "icon": ""
         }
       ]
     },
