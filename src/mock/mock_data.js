@@ -7,25 +7,25 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1755328996669",
+          "name": "x-ui",
+          "url": "http://[2a14:7581:8400::2:0:850b]:54321",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1754651509262",
           "name": "Zmin's diary",
           "url": "https://love.zmin.fyi/",
-          "description": "",
+          "description": "个人日记",
           "icon": ""
         },
         {
           "id": "zmin-video",
           "name": "zmin video",
           "url": "http://[2a14:7581:8400::2:0:850b]:3000",
-          "description": "",
+          "description": "个人影视网站",
           "icon": "/sitelogo/tv.zmin.fyi.ico"
-        },
-        {
-          "id": "site-1755328996669",
-          "name": "x-ui",
-          "url": "http://[2a14:7581:8400::2:0:850b]:54321",
-          "description": "",
-          "icon": ""
         }
       ]
     },
@@ -39,29 +39,29 @@ export const mockData = {
           "id": "linux-do",
           "name": "论坛",
           "url": "https://linux.do/",
-          "description": "",
+          "description": "Linux论坛",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "github",
-          "name": "github",
-          "url": "https://github.com/",
-          "description": "",
-          "icon": "/sitelogo/github.com.ico"
         },
         {
           "id": "site-1752959852496",
           "name": "GPT",
           "url": "https://chatgpt.com/",
-          "description": "",
+          "description": "ChatGPT",
           "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
           "id": "4kvm-tv",
           "name": "4k影视",
           "url": "https://www.4kvm.tv/",
-          "description": "",
+          "description": "影视网站",
           "icon": "/sitelogo/www.4kvm.tv.ico"
+        },
+        {
+          "id": "github",
+          "name": "github",
+          "url": "https://github.com/",
+          "description": "开源代码平台",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -72,25 +72,25 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "cf",
-          "name": "cf",
-          "url": "https://dash.cloudflare.com/",
-          "description": "",
-          "icon": "/sitelogo/dash.cloudflare.com.ico"
-        },
-        {
           "id": "new-api",
           "name": "New API",
           "url": "https://tbai.xin/",
-          "description": "",
+          "description": "API",
           "icon": "/sitelogo/tbai.xin.ico"
         },
         {
           "id": "cats-api",
           "name": "Cats API",
           "url": "https://catsapi.com",
-          "description": "",
+          "description": "API",
           "icon": "/sitelogo/tbai.xin.ico"
+        },
+        {
+          "id": "cf",
+          "name": "cf",
+          "url": "https://dash.cloudflare.com/",
+          "description": "大善人",
+          "icon": "/sitelogo/dash.cloudflare.com.ico"
         }
       ]
     },
@@ -199,6 +199,13 @@ export const mockData = {
           "url": "https://deepwiki.com/",
           "description": "",
           "icon": "/sitelogo/deepwiki.com.ico"
+        },
+        {
+          "id": "site-1755836162495",
+          "name": "凹凸工坊",
+          "url": "https://www.autohanding.com/",
+          "description": "模拟手写",
+          "icon": ""
         }
       ]
     }
