@@ -104,21 +104,21 @@ export const mockData = {
           "id": "github-docker-accelerator",
           "name": "GitHub docker 加速",
           "url": "https://cnb.cool/znb/hubproxy",
-          "description": "",
+          "description": "download加速",
           "icon": "/sitelogo/cnb.cool.ico"
         },
         {
           "id": "nihao-hr",
           "name": "你好HR",
           "url": "https://chromewebstore.google.com/detail/%E4%BD%A0%E5%A5%BDhr/dogjfmeploffpakiffkgjjlfhkgcmhfc",
-          "description": "",
+          "description": "BOSS批量投",
           "icon": "/sitelogo/chromewebstore.google.com.ico"
         },
         {
           "id": "github-time-script",
           "name": "GitHub 时间脚本",
           "url": "https://docs.rational-stars.top/",
-          "description": "",
+          "description": "查看更新时间",
           "icon": "/sitelogo/github.com.ico"
         }
       ]
@@ -133,28 +133,28 @@ export const mockData = {
           "id": "site-1752960532217",
           "name": "ZMIN EDU",
           "url": "https://zmkk.edu.kg/email",
-          "description": "",
+          "description": "edu",
           "icon": "/sitelogo/zmkk.edu.kg.ico"
         },
         {
           "id": "xuetong-helper",
           "name": "学习通助手",
           "url": "https://greasyfork.cn/post/8",
-          "description": "",
+          "description": "学习脚本",
           "icon": "/sitelogo/greasyfork.cn.ico"
         },
         {
           "id": "inbox-jolyne-kojo",
           "name": "jolyne_kojo  EDU",
           "url": "https://email-web-app.j3.workers.dev/",
-          "description": "",
+          "description": "edu",
           "icon": "/sitelogo/zmkk.edu.kg.ico"
         },
         {
           "id": "chaoxing-space",
           "name": "重庆科创",
           "url": "https://i.mooc.chaoxing.com/space/index?t=1711770764305",
-          "description": "",
+          "description": "学校",
           "icon": "/sitelogo/greasyfork.cn.ico"
         }
       ]
@@ -166,46 +166,39 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
-          "id": "fire114",
-          "name": "消防百事通",
-          "url": "https://www.fire114.cn/",
-          "description": "",
-          "icon": "/sitelogo/www.fire114.cn.ico"
-        },
-        {
-          "id": "vercel",
-          "name": "vercel",
-          "url": "https://vercel.com/bantianjingchuans-projects/",
-          "description": "",
-          "icon": "/sitelogo/vercel.com.ico"
-        },
-        {
-          "id": "site-1753324535695",
-          "name": "desktop",
-          "url": "https://gitee.com/codevicent/easy-desktop",
-          "description": "",
-          "icon": "/sitelogo/gitee.com.ico"
-        },
-        {
-          "id": "site-1753596390004",
-          "name": "PDF集成翻译",
-          "url": "https://www.onlinedoctranslator.com/zh-CN/",
-          "description": "",
-          "icon": "/sitelogo/www.onlinedoctranslator.com.ico"
-        },
-        {
-          "id": "site-1754648873437",
-          "name": "GitHub wiki",
-          "url": "https://deepwiki.com/",
-          "description": "",
-          "icon": "/sitelogo/deepwiki.com.ico"
-        },
-        {
           "id": "site-1755836162495",
           "name": "凹凸工坊",
           "url": "https://www.autohanding.com/",
           "description": "模拟手写",
           "icon": ""
+        },
+        {
+          "id": "site-1753596390004",
+          "name": "PDF集成翻译",
+          "url": "https://www.onlinedoctranslator.com/zh-CN/",
+          "description": "PDF翻译",
+          "icon": "/sitelogo/www.onlinedoctranslator.com.ico"
+        },
+        {
+          "id": "vercel",
+          "name": "vercel",
+          "url": "https://vercel.com/bantianjingchuans-projects/",
+          "description": "大善人",
+          "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
+          "id": "fire114",
+          "name": "消防百事通",
+          "url": "https://www.fire114.cn/",
+          "description": "消防民间网站",
+          "icon": "/sitelogo/www.fire114.cn.ico"
+        },
+        {
+          "id": "site-1754648873437",
+          "name": "GitHub wiki",
+          "url": "https://deepwiki.com/",
+          "description": "GitHub项目百科",
+          "icon": "/sitelogo/deepwiki.com.ico"
         }
       ]
     }
