@@ -163,6 +163,13 @@ export const mockData = {
           "url": "https://i.mooc.chaoxing.com/space/index?t=1711770764305",
           "description": "学校",
           "icon": "/sitelogo/greasyfork.cn.ico"
+        },
+        {
+          "id": "site-1755966019078",
+          "name": "虚拟证明",
+          "url": "https://idgenerator-xi.vercel.app/",
+          "description": "虚拟证明",
+          "icon": ""
         }
       ]
     },
