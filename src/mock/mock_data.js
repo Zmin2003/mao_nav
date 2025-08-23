@@ -62,6 +62,13 @@ export const mockData = {
           "url": "https://github.com/",
           "description": "开源代码平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1755957644326",
+          "name": "文件传输",
+          "url": "https://quwenjian.cc/#/",
+          "description": "文件传输",
+          "icon": ""
         }
       ]
     },
