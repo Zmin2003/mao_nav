@@ -98,6 +98,13 @@ export const mockData = {
           "url": "https://dash.cloudflare.com/",
           "description": "大善人",
           "icon": "/sitelogo/dash.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1756108473923",
+          "name": "claude api",
+          "url": "https://foxcode.hshwk.org/",
+          "description": "付费套餐",
+          "icon": ""
         }
       ]
     },
