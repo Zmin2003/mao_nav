@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1755328996669",
-          "name": "x-ui",
-          "url": "http://[2a14:7581:8400::2:0:850b]:54321",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1754651509262",
           "name": "Zmin's diary",
           "url": "https://love.zmin.fyi/",
@@ -26,6 +19,13 @@ export const mockData = {
           "url": "http://[2a14:7581:8400::2:0:850b]:3000",
           "description": "个人影视网站",
           "icon": "/sitelogo/tv.zmin.fyi.ico"
+        },
+        {
+          "id": "site-1755328996669",
+          "name": "X-UI",
+          "url": "http://[2a14:7581:8400::2:0:850b]:54321",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -41,13 +41,6 @@ export const mockData = {
           "url": "https://linux.do/",
           "description": "Linux论坛",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752959852496",
-          "name": "GPT",
-          "url": "https://chatgpt.com/",
-          "description": "ChatGPT",
-          "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
           "id": "4kvm-tv",
@@ -79,32 +72,32 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "new-api",
-          "name": "New API",
-          "url": "https://tbai.xin/",
-          "description": "API",
-          "icon": "/sitelogo/tbai.xin.ico"
+          "id": "site-1756108473923",
+          "name": "claude api",
+          "url": "https://foxcode.hshwk.org/",
+          "description": "付费套餐",
+          "icon": ""
         },
         {
           "id": "cats-api",
-          "name": "Cats API",
+          "name": "公益站Cats API",
           "url": "https://catsapi.com",
-          "description": "API",
+          "description": "Linux公益站",
           "icon": "/sitelogo/tbai.xin.ico"
         },
         {
           "id": "cf",
           "name": "cf",
           "url": "https://dash.cloudflare.com/",
-          "description": "大善人",
+          "description": "大善人云服务",
           "icon": "/sitelogo/dash.cloudflare.com.ico"
         },
         {
-          "id": "site-1756108473923",
-          "name": "claude api",
-          "url": "https://foxcode.hshwk.org/",
-          "description": "付费套餐",
-          "icon": ""
+          "id": "new-api",
+          "name": "New API",
+          "url": "https://tbai.xin/",
+          "description": "Linux T佬公益站",
+          "icon": "/sitelogo/tbai.xin.ico"
         }
       ]
     },
