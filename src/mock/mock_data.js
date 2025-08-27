@@ -125,7 +125,7 @@ export const mockData = {
           "id": "github-time-script",
           "name": "GitHub 时间脚本",
           "url": "https://docs.rational-stars.top/",
-          "description": "查看更新时间",
+          "description": "查看GitHub项目更新时间",
           "icon": "/sitelogo/github.com.ico"
         }
       ]
@@ -137,25 +137,11 @@ export const mockData = {
       "order": 4,
       "sites": [
         {
-          "id": "site-1752960532217",
-          "name": "ZMIN EDU",
-          "url": "https://zmkk.edu.kg/email",
-          "description": "edu",
-          "icon": "/sitelogo/zmkk.edu.kg.ico"
-        },
-        {
           "id": "xuetong-helper",
           "name": "学习通助手",
           "url": "https://greasyfork.cn/post/8",
           "description": "学习脚本",
           "icon": "/sitelogo/greasyfork.cn.ico"
-        },
-        {
-          "id": "inbox-jolyne-kojo",
-          "name": "jolyne_kojo  EDU",
-          "url": "https://email-web-app.j3.workers.dev/",
-          "description": "edu",
-          "icon": "/sitelogo/zmkk.edu.kg.ico"
         },
         {
           "id": "chaoxing-space",
@@ -166,10 +152,24 @@ export const mockData = {
         },
         {
           "id": "site-1755966019078",
-          "name": "虚拟证明",
+          "name": "虚拟学生证件",
           "url": "https://idgenerator-xi.vercel.app/",
-          "description": "虚拟证明",
+          "description": "虚拟证件",
           "icon": ""
+        },
+        {
+          "id": "site-1752960532217",
+          "name": "ZMIN EDU",
+          "url": "https://zmkk.edu.kg/email",
+          "description": "edu邮箱",
+          "icon": "/sitelogo/zmkk.edu.kg.ico"
+        },
+        {
+          "id": "inbox-jolyne-kojo",
+          "name": "jolyne_kojo  EDU",
+          "url": "https://email-web-app.j3.workers.dev/",
+          "description": "edu邮箱",
+          "icon": "/sitelogo/zmkk.edu.kg.ico"
         }
       ]
     },
