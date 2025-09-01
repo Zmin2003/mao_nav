@@ -26,13 +26,6 @@ export const mockData = {
           "url": "https://tv.zmin.fyi",
           "description": "个人影视网站",
           "icon": "/sitelogo/tv.zmin.fyi.ico"
-        },
-        {
-          "id": "site-1756740763873",
-          "name": "Gemini api",
-          "url": "https://api.ai-wave.org",
-          "description": "付费套餐",
-          "icon": ""
         }
       ]
     },
@@ -86,18 +79,18 @@ export const mockData = {
           "icon": "/sitelogo/tbai.xin.ico"
         },
         {
-          "id": "cf",
-          "name": "cf",
-          "url": "https://dash.cloudflare.com/",
-          "description": "大善人云服务",
-          "icon": "/sitelogo/dash.cloudflare.com.ico"
-        },
-        {
           "id": "new-api",
           "name": "New API",
           "url": "https://tbai.xin/",
           "description": "Linux T佬公益站",
           "icon": "/sitelogo/tbai.xin.ico"
+        },
+        {
+          "id": "site-1756740763873",
+          "name": "Gemini api",
+          "url": "https://api.ai-wave.org",
+          "description": "付费套餐",
+          "icon": ""
         }
       ]
     },
@@ -213,6 +206,13 @@ export const mockData = {
           "url": "https://deepwiki.com/",
           "description": "GitHub项目百科",
           "icon": "/sitelogo/deepwiki.com.ico"
+        },
+        {
+          "id": "cf",
+          "name": "cf",
+          "url": "https://dash.cloudflare.com/",
+          "description": "大善人云服务",
+          "icon": "/sitelogo/dash.cloudflare.com.ico"
         }
       ]
     }
