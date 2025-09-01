@@ -14,17 +14,24 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "zmin-video",
-          "name": "zmin video",
-          "url": "http://[2a14:7581:8400::2:0:850b]:3000",
-          "description": "个人影视网站",
-          "icon": "/sitelogo/tv.zmin.fyi.ico"
-        },
-        {
           "id": "site-1755328996669",
           "name": "X-UI",
           "url": "http://[2a14:7581:8400::2:0:850b]:54321",
           "description": "",
+          "icon": ""
+        },
+        {
+          "id": "zmin-video",
+          "name": "zmin video",
+          "url": "https://tv.zmin.fyi",
+          "description": "个人影视网站",
+          "icon": "/sitelogo/tv.zmin.fyi.ico"
+        },
+        {
+          "id": "site-1756740763873",
+          "name": "Gemini api",
+          "url": "https://api.ai-wave.org",
+          "description": "付费套餐",
           "icon": ""
         }
       ]
@@ -41,13 +48,6 @@ export const mockData = {
           "url": "https://linux.do/",
           "description": "Linux论坛",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "4kvm-tv",
-          "name": "4k影视",
-          "url": "https://www.4kvm.tv/",
-          "description": "影视网站",
-          "icon": "/sitelogo/www.4kvm.tv.ico"
         },
         {
           "id": "github",
