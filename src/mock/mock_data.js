@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://github.com/",
           "description": "开源代码平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1756823978913",
+          "name": "tvbox",
+          "url": "http://www.饭太硬.net/tv",
+          "description": "tvbox资源",
+          "icon": ""
         }
       ]
     },
