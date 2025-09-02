@@ -48,13 +48,6 @@ export const mockData = {
           "url": "https://github.com/",
           "description": "开源代码平台",
           "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "site-1755957644326",
-          "name": "文件传输",
-          "url": "https://quwenjian.cc/#/",
-          "description": "文件传输",
-          "icon": ""
         }
       ]
     },
@@ -90,6 +83,13 @@ export const mockData = {
           "name": "Gemini api",
           "url": "https://api.ai-wave.org",
           "description": "付费套餐",
+          "icon": ""
+        },
+        {
+          "id": "site-1756812253855",
+          "name": "vps",
+          "url": "https://fuckip.me/dashboard",
+          "description": "便宜vps",
           "icon": ""
         }
       ]
@@ -213,6 +213,13 @@ export const mockData = {
           "url": "https://dash.cloudflare.com/",
           "description": "大善人云服务",
           "icon": "/sitelogo/dash.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1755957644326",
+          "name": "文件传输",
+          "url": "https://quwenjian.cc/#/",
+          "description": "文件传输",
+          "icon": ""
         }
       ]
     }
