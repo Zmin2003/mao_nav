@@ -11,7 +11,7 @@ export const mockData = {
           "name": "Zmin's diary",
           "url": "https://love.zmin.fyi/",
           "description": "记录生活点滴的个人博客",
-          "icon": "https://love.zmin.fyi/favicon.ico"
+          "icon": "https://api.iconify.design/mdi:notebook-heart.svg"
         },
         {
           "id": "site-1755328996669",
@@ -25,7 +25,7 @@ export const mockData = {
           "name": "zmin video",
           "url": "https://tv.zmin.fyi",
           "description": "私人影音娱乐中心",
-          "icon": "https://tv.zmin.fyi/favicon.ico"
+          "icon": "https://api.iconify.design/mdi:movie-open.svg"
         }
       ]
     },
@@ -61,7 +61,7 @@ export const mockData = {
           "name": "New API",
           "url": "https://tbai.xin/",
           "description": "多模型AI接口聚合平台",
-          "icon": "https://tbai.xin/favicon.ico"
+          "icon": "https://api.iconify.design/mdi:api.svg"
         }
       ]
     },
@@ -126,7 +126,7 @@ export const mockData = {
           "name": "ZMIN EDU",
           "url": "https://zmkk.edu.kg/email",
           "description": "教育邮箱免费申请服务",
-          "icon": "https://zmkk.edu.kg/favicon.ico"
+          "icon": "https://api.iconify.design/mdi:email-school.svg"
         },
         {
           "id": "inbox-jolyne-kojo",
@@ -169,7 +169,7 @@ export const mockData = {
           "name": "GitHub wiki",
           "url": "https://deepwiki.com/",
           "description": "GitHub项目深度解析百科",
-          "icon": "https://deepwiki.com/favicon.ico"
+          "icon": "https://api.iconify.design/mdi:book-open-page-variant.svg"
         },
         {
           "id": "nihao-hr",
@@ -219,7 +219,7 @@ export const mockData = {
           "name": "论坛",
           "url": "https://linux.do/",
           "description": "Linux技术交流社区",
-          "icon": "https://linux.do/uploads/default/optimized/3X/9/d/9dd49731091ce8656e94433a26a3ef36062b3994_2_32x32.png"
+          "icon": "https://api.iconify.design/simple-icons:linux.svg"
         },
         {
           "id": "site-1756823978913",
