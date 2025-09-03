@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://tv.zmin.fyi",
           "description": "私人影音娱乐中心",
           "icon": "https://api.iconify.design/mdi:movie-open.svg"
+        },
+        {
+          "id": "site-1756885580679",
+          "name": "公益节点",
+          "url": "https://linuxdoboard.webn.cc",
+          "description": "W公益",
+          "icon": "https://api.iconify.design/mdi:router-network.svg"
         }
       ]
     },
