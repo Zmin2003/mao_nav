@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "category-1754650287938",
       "icon": "🏠",
-      "name": "自建网站",
+      "name": "常用网站",
       "order": 0,
       "sites": [
         {
