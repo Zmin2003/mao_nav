@@ -122,13 +122,6 @@ export const mockData = {
           "icon": "https://api.iconify.design/simple-icons:greasyfork.svg"
         },
         {
-          "id": "site-1752960532217",
-          "name": "ZMIN EDU",
-          "url": "https://zmkk.edu.kg/email",
-          "description": "教育邮箱免费申请服务",
-          "icon": "https://api.iconify.design/mdi:email-school.svg"
-        },
-        {
           "id": "inbox-jolyne-kojo",
           "name": "jolyne_kojo  EDU",
           "url": "https://email-web-app.j3.workers.dev/",
@@ -141,6 +134,13 @@ export const mockData = {
           "url": "https://idgenerator-xi.vercel.app/",
           "description": "在线学生证件生成器",
           "icon": "https://api.iconify.design/mdi:card-account-details.svg"
+        },
+        {
+          "id": "site-1752960532217",
+          "name": "ZMIN EDU",
+          "url": "https://zmkk.edu.kg/email",
+          "description": "教育邮箱免费申请服务",
+          "icon": "https://api.iconify.design/mdi:email-outline.svg"
         }
       ]
     },
