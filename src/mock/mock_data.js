@@ -55,20 +55,6 @@ export const mockData = {
           "url": "https://api.ai-wave.org",
           "description": "Google Gemini API服务",
           "icon": "https://api.iconify.design/simple-icons:googlegemini.svg"
-        },
-        {
-          "id": "cats-api",
-          "name": "公益站Cats API",
-          "url": "https://catsapi.com",
-          "description": "免费AI接口公益服务",
-          "icon": "https://api.iconify.design/fluent-emoji:cat-face.svg"
-        },
-        {
-          "id": "new-api",
-          "name": "New API",
-          "url": "https://tbai.xin/",
-          "description": "多模型AI接口聚合平台",
-          "icon": "https://api.iconify.design/mdi:api.svg"
         }
       ]
     },
