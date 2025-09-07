@@ -55,6 +55,13 @@ export const mockData = {
           "url": "https://api.ai-wave.org",
           "description": "Google Gemini API服务",
           "icon": "https://api.iconify.design/simple-icons:googlegemini.svg"
+        },
+        {
+          "id": "site-1757246652220",
+          "name": "GPT综合",
+          "url": "https://api.v36.cm/",
+          "description": "GPT专供和综合",
+          "icon": "/sitelogo/api.v36.cm.ico"
         }
       ]
     },
