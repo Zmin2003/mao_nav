@@ -14,20 +14,6 @@ export const mockData = {
           "icon": "https://api.iconify.design/mdi:notebook-heart.svg"
         },
         {
-          "id": "site-1755328996669",
-          "name": "X-UI",
-          "url": "http://[2a14:7581:8400::2:0:850b]:54321",
-          "description": "网络代理管理面板",
-          "icon": "https://api.iconify.design/mdi:router-network.svg"
-        },
-        {
-          "id": "zmin-video",
-          "name": "zmin video",
-          "url": "https://tv.zmin.fyi",
-          "description": "私人影音娱乐中心",
-          "icon": "https://api.iconify.design/mdi:movie-open.svg"
-        },
-        {
           "id": "site-1756885580679",
           "name": "公益节点",
           "url": "https://linuxdoboard.webn.cc",
