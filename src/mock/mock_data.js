@@ -29,13 +29,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1756108473923",
-          "name": "claude api",
-          "url": "https://foxcode.hshwk.org/",
-          "description": "Claude AI API接口服务",
-          "icon": "https://api.iconify.design/simple-icons:anthropic.svg"
-        },
-        {
           "id": "site-1756740763873",
           "name": "Gemini api",
           "url": "https://api.ai-wave.org",
@@ -48,6 +41,13 @@ export const mockData = {
           "url": "https://api.v36.cm/",
           "description": "GPT专供和综合",
           "icon": "/sitelogo/api.v36.cm.ico"
+        },
+        {
+          "id": "site-1756108473923",
+          "name": "code api",
+          "url": "https://instcopilot-api.com/pricing",
+          "description": "code AI API接口服务",
+          "icon": "/sitelogo/instcopilot-api.com.ico"
         }
       ]
     },
