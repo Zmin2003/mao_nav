@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://linuxdoboard.webn.cc",
           "description": "W公益",
           "icon": "https://api.iconify.design/mdi:router-network.svg"
+        },
+        {
+          "id": "site-1757471413410",
+          "name": "翻译接口",
+          "url": "https://zmin.deno.dev/",
+          "description": "Deeplx翻译接口",
+          "icon": ""
         }
       ]
     },
@@ -41,13 +48,6 @@ export const mockData = {
           "url": "https://api.v36.cm/",
           "description": "GPT专供和综合",
           "icon": "/sitelogo/api.v36.cm.ico"
-        },
-        {
-          "id": "site-1756108473923",
-          "name": "code api",
-          "url": "https://instcopilot-api.com/pricing",
-          "description": "code AI API接口服务",
-          "icon": "/sitelogo/instcopilot-api.com.ico"
         }
       ]
     },
@@ -84,6 +84,13 @@ export const mockData = {
           "url": "https://fuckip.me/dashboard",
           "description": "轻量级云服务器托管",
           "icon": "https://api.iconify.design/mdi:server.svg"
+        },
+        {
+          "id": "site-1757471377678",
+          "name": "Deno",
+          "url": "https://dash.deno.com",
+          "description": "免费Deno部署服务",
+          "icon": ""
         }
       ]
     },
