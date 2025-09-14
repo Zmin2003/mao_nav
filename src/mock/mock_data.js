@@ -25,7 +25,7 @@ export const mockData = {
           "name": "翻译接口",
           "url": "https://zmin.deno.dev/",
           "description": "Deeplx翻译接口",
-          "icon": ""
+          "icon": "https://api.iconify.design/mdi:translate.svg"
         }
       ]
     },
@@ -54,7 +54,7 @@ export const mockData = {
           "name": "cerebras",
           "url": "https://www.cerebras.ai/",
           "description": "高并发api服务",
-          "icon": ""
+          "icon": "https://api.iconify.design/mdi:chip.svg"
         }
       ]
     },
@@ -97,7 +97,7 @@ export const mockData = {
           "name": "Deno",
           "url": "https://dash.deno.com",
           "description": "免费Deno部署服务",
-          "icon": ""
+          "icon": "https://api.iconify.design/simple-icons:deno.svg"
         }
       ]
     },
