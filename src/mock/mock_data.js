@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://api.v36.cm/",
           "description": "GPT专供和综合",
           "icon": "/sitelogo/api.v36.cm.ico"
+        },
+        {
+          "id": "site-1757816740297",
+          "name": "cerebras",
+          "url": "https://www.cerebras.ai/",
+          "description": "高并发api服务",
+          "icon": ""
         }
       ]
     },
