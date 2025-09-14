@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://zmin.deno.dev/",
           "description": "Deeplx翻译接口",
           "icon": "https://api.iconify.design/mdi:translate.svg"
+        },
+        {
+          "id": "site-1757850994658",
+          "name": "Free Code API",
+          "url": "https://cc.wenwen12345.top/",
+          "description": "代码API",
+          "icon": "https://api.iconify.design/mdi:laptop-code.svg"
         }
       ]
     },
