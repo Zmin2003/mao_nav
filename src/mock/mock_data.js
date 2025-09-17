@@ -24,7 +24,7 @@ export const mockData = {
           "id": "site-1757471413410",
           "name": "翻译接口",
           "url": "https://zmin.deno.dev/",
-          "description": "Deeplx翻译接口",
+          "description": "翻译接口",
           "icon": "https://api.iconify.design/mdi:translate.svg"
         }
       ]
@@ -43,13 +43,6 @@ export const mockData = {
           "icon": "https://api.iconify.design/simple-icons:googlegemini.svg"
         },
         {
-          "id": "site-1757246652220",
-          "name": "GPT综合",
-          "url": "https://api.v36.cm/",
-          "description": "GPT专供和综合",
-          "icon": "/sitelogo/api.v36.cm.ico"
-        },
-        {
           "id": "site-1757816740297",
           "name": "cerebras",
           "url": "https://www.cerebras.ai/",
@@ -62,6 +55,13 @@ export const mockData = {
           "url": "https://cc.wenwen12345.top/",
           "description": "代码API",
           "icon": "https://api.iconify.design/mdi:code-tags.svg"
+        },
+        {
+          "id": "site-1757246652220",
+          "name": "GPT综合",
+          "url": "https://api.v36.cm/",
+          "description": "https://www.unifyllm.com/",
+          "icon": "/sitelogo/api.v36.cm.ico"
         }
       ]
     },
