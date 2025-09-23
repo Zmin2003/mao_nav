@@ -14,18 +14,18 @@ export const mockData = {
           "icon": "https://api.iconify.design/mdi:notebook-heart.svg"
         },
         {
-          "id": "site-1756885580679",
-          "name": "公益节点",
-          "url": "https://linuxdoboard.webn.cc",
-          "description": "W公益",
-          "icon": "https://api.iconify.design/mdi:router-network.svg"
-        },
-        {
           "id": "site-1757471413410",
           "name": "翻译接口",
           "url": "https://zmin.deno.dev/",
           "description": "翻译接口",
           "icon": "https://api.iconify.design/mdi:translate.svg"
+        },
+        {
+          "id": "site-1756885580679",
+          "name": "家宽公益",
+          "url": "https://nmb.weyolo.com",
+          "description": "家庭宽带",
+          "icon": "https://api.iconify.design/mdi:router-network.svg"
         }
       ]
     },
