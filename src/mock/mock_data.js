@@ -22,7 +22,7 @@ export const mockData = {
         },
         {
           "id": "site-1756885580679",
-          "name": "家宽公益",
+          "name": "家庭宽带",
           "url": "https://nmb.weyolo.com",
           "description": "家庭宽带",
           "icon": "https://api.iconify.design/mdi:router-network.svg"
