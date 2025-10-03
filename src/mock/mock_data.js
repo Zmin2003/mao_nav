@@ -50,13 +50,6 @@ export const mockData = {
           "icon": "https://api.iconify.design/mdi:chip.svg"
         },
         {
-          "id": "site-1757850994658",
-          "name": "Free Code API",
-          "url": "https://cc.wenwen12345.top/",
-          "description": "代码API",
-          "icon": "https://api.iconify.design/mdi:code-tags.svg"
-        },
-        {
           "id": "site-1757246652220",
           "name": "GPT综合",
           "url": "https://api.v36.cm/",
