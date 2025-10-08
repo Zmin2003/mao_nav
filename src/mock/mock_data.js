@@ -22,9 +22,9 @@ export const mockData = {
         },
         {
           "id": "site-1756885580679",
-          "name": "家庭宽带",
-          "url": "https://nmb.weyolo.com",
-          "description": "家庭宽带",
+          "name": "永雏塔菲",
+          "url": "https://tf520.top/",
+          "description": "互联网入口",
           "icon": "https://api.iconify.design/mdi:router-network.svg"
         }
       ]
@@ -41,13 +41,6 @@ export const mockData = {
           "url": "https://api.ai-wave.org",
           "description": "Google Gemini API服务",
           "icon": "https://api.iconify.design/simple-icons:googlegemini.svg"
-        },
-        {
-          "id": "site-1757816740297",
-          "name": "cerebras",
-          "url": "https://www.cerebras.ai/",
-          "description": "高并发api服务",
-          "icon": "https://api.iconify.design/mdi:chip.svg"
         },
         {
           "id": "site-1757246652220",
@@ -84,13 +77,6 @@ export const mockData = {
           "url": "https://dash.cloudflare.com/",
           "description": "Cloudflare CDN管理控制台",
           "icon": "https://api.iconify.design/simple-icons:cloudflare.svg"
-        },
-        {
-          "id": "site-1756812253855",
-          "name": "vps",
-          "url": "https://fuckip.me/dashboard",
-          "description": "轻量级云服务器托管",
-          "icon": "https://api.iconify.design/mdi:server.svg"
         },
         {
           "id": "site-1757471377678",
