@@ -37,16 +37,16 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1756740763873",
-          "name": "Gemini api",
-          "url": "https://api.ai-wave.org",
-          "description": "Google Gemini API服务",
-          "icon": "https://api.iconify.design/simple-icons:googlegemini.svg"
+          "name": "unify api",
+          "url": "https://www.unifyllm.com/",
+          "description": "API中转",
+          "icon": "/sitelogo/api.v36.cm.ico"
         },
         {
           "id": "site-1757246652220",
           "name": "GPT综合",
           "url": "https://api.v36.cm/",
-          "description": "https://www.unifyllm.com/",
+          "description": "待删除",
           "icon": "/sitelogo/api.v36.cm.ico"
         }
       ]
