@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://api.v36.cm/",
           "description": "待删除",
           "icon": "/sitelogo/api.v36.cm.ico"
+        },
+        {
+          "id": "site-1761525290520",
+          "name": "Ai Model",
+          "url": "https://artificialanalysis.ai/",
+          "description": "Ai排行榜",
+          "icon": "/sitelogo/artificialanalysis.ai.ico"
         }
       ]
     },
