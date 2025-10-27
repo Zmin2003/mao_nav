@@ -7,27 +7,12 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1757471413410",
-          "name": "翻译接口",
-          "url": "https://zmin.deno.dev/",
-          "description": "翻译接口",
-          "icon": "https://api.iconify.design/mdi:translate.svg"
-        },
-        {
           "id": "site-1756885580679",
           "name": "永雏塔菲",
           "url": "https://tf520.top/",
           "description": "互联网入口",
           "icon": "https://api.iconify.design/mdi:router-network.svg"
-        }
-      ]
-    },
-    {
-      "id": "ai-services",
-      "name": "AI服务",
-      "icon": "🤖",
-      "order": 1,
-      "sites": [
+        },
         {
           "id": "site-1756740763873",
           "name": "unify api",
@@ -50,6 +35,13 @@ export const mockData = {
           "icon": "/sitelogo/artificialanalysis.ai.ico"
         }
       ]
+    },
+    {
+      "id": "ai-services",
+      "name": "AI服务",
+      "icon": "🤖",
+      "order": 1,
+      "sites": []
     },
     {
       "id": "dev-platform",
