@@ -33,15 +33,15 @@ export const mockData = {
           "url": "https://artificialanalysis.ai/",
           "description": "Ai排行榜",
           "icon": "/sitelogo/artificialanalysis.ai.ico"
+        },
+        {
+          "id": "linux-do",
+          "name": "论坛",
+          "url": "https://linux.do/",
+          "description": "Linux技术交流社区",
+          "icon": "https://api.iconify.design/simple-icons:linux.svg"
         }
       ]
-    },
-    {
-      "id": "ai-services",
-      "name": "AI服务",
-      "icon": "🤖",
-      "order": 1,
-      "sites": []
     },
     {
       "id": "dev-platform",
@@ -191,13 +191,6 @@ export const mockData = {
           "url": "https://www.fire114.cn/",
           "description": "消防安全知识资讯平台",
           "icon": "https://api.iconify.design/mdi:fire-truck.svg"
-        },
-        {
-          "id": "linux-do",
-          "name": "论坛",
-          "url": "https://linux.do/",
-          "description": "Linux技术交流社区",
-          "icon": "https://api.iconify.design/simple-icons:linux.svg"
         },
         {
           "id": "site-1756823978913",
