@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1754651509262",
-          "name": "Zmin's diary",
-          "url": "https://love.zmin.fyi/",
-          "description": "记录生活点滴的个人博客",
-          "icon": "https://api.iconify.design/mdi:notebook-heart.svg"
-        },
-        {
           "id": "site-1757471413410",
           "name": "翻译接口",
           "url": "https://zmin.deno.dev/",
