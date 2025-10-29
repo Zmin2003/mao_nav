@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://linux.do/",
           "description": "Linux技术交流社区",
           "icon": "https://api.iconify.design/simple-icons:linux.svg"
+        },
+        {
+          "id": "site-1761703942147",
+          "name": "Gmail",
+          "url": "https://mail.google.com",
+          "description": "gmail",
+          "icon": ""
         }
       ]
     },
