@@ -205,6 +205,13 @@ export const mockData = {
           "url": "http://www.饭太硬.net/tv",
           "description": "电视盒子应用资源分享",
           "icon": "https://api.iconify.design/mdi:television-box.svg"
+        },
+        {
+          "id": "site-1762593845314",
+          "name": "PDF水印",
+          "url": "https://products.aspose.app/pdf/zh/remove-watermark",
+          "description": "",
+          "icon": ""
         }
       ]
     }
